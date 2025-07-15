@@ -6,6 +6,10 @@
 
 [Github](https://github.com/Shivangi-NITD26/frauddetection)  
 
-[Github](https://github.com/Shivangi-NITD26/-ml_project-churn-prediction)
+[Github](https://github.com/Shivangi-NITD26/-ml_project-churn-prediction)  
+
+[Github](https://github.com/Shivangi-NITD26/eyeclinic)  
+
+[Github](https://github.com/Shivangi-NITD26/portfolio)
 
 
