@@ -4,6 +4,8 @@
 
 [Shivangi Patwa](https://leetcode.com/u/Shivangi-Patwa/)  
 
-[Github](https://github.com/Shivangi-NITD26/frauddetection)
+[Github](https://github.com/Shivangi-NITD26/frauddetection)  
+
+[Github](https://github.com/Shivangi-NITD26/-ml_project-churn-prediction)
 
 
