@@ -10,6 +10,10 @@
 
 [Github](https://github.com/Shivangi-NITD26/eyeclinic)  
 
-[Github](https://github.com/Shivangi-NITD26/portfolio)
+[Github](https://github.com/Shivangi-NITD26/portfolio)  
+
+[Link](https://shivangi-nitd26.github.io/portfolio/)  
+
+[Link](https://shivangi-nitd26.github.io/eyeclinic/)
 
 
