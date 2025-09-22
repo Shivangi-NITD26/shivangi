@@ -16,6 +16,6 @@
 
 [Link](https://shivangi-nitd26.github.io/eyeclinic/)
 
-[Link](https://github.com/Shivangi-NITD26/spammail)
+[Github](https://github.com/Shivangi-NITD26/spammail)
 
 
